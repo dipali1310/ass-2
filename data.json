@@ -1,0 +1,71 @@
+[{
+    "S.No": "1",
+    "First name" : "Ram",
+    "Middle name": "Krishna",
+    "Last name": "Gupta", 
+     "Email": "ram@gmail.com",
+    "Phone": "567843210" ,
+    "Role": "Operation Head",
+     "Address": "Noida"
+},
+{
+ "S.No": "2",
+ "First name": "Shree",
+ "Middle name": "Krishna",
+ "Last name": "Gupta",
+ "Email": "shree@gmail.com" ,
+"Phone": "7865430210" ,
+"Role": "Sales",
+"Address": "Patna"
+},
+{
+"S.No": "3",
+"First name": "Shyam",
+"Middle name": "Krishna",
+"Last name": "Gupta",
+"Email": "shyam@gmail.com",
+"Phone": "4566432156" ,
+"Role": "Networking",
+"Address": "Delhi"
+},
+{
+ "S.No": "4",
+ "First name": "Radhe",
+ "Middle name": "Krishan",
+ "Last name": "Gupta",
+ "Email": "radhe@gmail.com",
+ "Phone": "3425672839" ,
+ "Role": "Management",
+ "Address": "Kolkata"
+},
+{
+ "S.No": "5",
+ "First name": "Hari" ,
+ "Middle name": "Krishna",
+ "Last name": "gupta" ,
+ "Email": "harik@gmail.com",
+"Phone": "9876504321" ,
+"Role": "HR",
+"Address": "Bhopal"
+},
+{
+ "S.No": "6",
+ "First name": "Dhan",
+ "Middle name": "Shree",
+ "Last name": "gupta" ,
+ "Email": "dhan@gmail.com",
+ "Phone": "4533478585" ,
+ "Role": "Finance",
+ "Address": "Mumbai"
+},
+{
+ "S.No": "7",
+ "First name": "Hari",
+ "Middle name": "Lal",
+ "Last name": "gupta",
+ "Email": "haris@gmail.com" ,
+ "Phone": "5643203478" ,
+ "Role": "It",
+ "Address": "Nagpur"
+ }
+]
